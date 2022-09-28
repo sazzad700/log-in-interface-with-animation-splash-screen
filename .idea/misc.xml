@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/drawable-anydpi/ic_3d_rotation.xml" value="0.145" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/drawable/ic_launcher_background.xml" value="0.145" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout-land/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout-land/land.xml" value="0.4899749373433584" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout-land/landscape.xml" value="0.25" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout-large/activity_main.xml" value="0.153125" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout-large/l.xml" value="0.2984375" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout-large/large.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout-normal/activity_main.xml" value="0.11136363636363636" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout-normal/n.xml" value="0.15483870967741936" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout-normal/normal.xml" value="0.1633176571184267" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout-notlong-car/g.xml" value="0.1449165402124431" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout-small-notlong/small.xml" value="0.1456752655538695" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout-small/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout-small/r.xml" value="0.44730679156908665" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout-small/s.xml" value="0.15483870967741936" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout-small/sp.xml" value="0.11" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout-xlarge/a.xml" value="0.2984375" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout-xlarge/ss.xml" value="0.16276041666666666" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout/activity_dashbord.xml" value="0.45784543325526933" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout/activity_login.xml" value="0.5" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/sazzad/AndroidStudioProjects/LogInInterfacewithfirebase/app/src/main/res/layout/activity_signup.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
